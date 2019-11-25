@@ -1,7 +1,7 @@
 Package: dddata
 Version: 0.1.0.9000
-Title: Datasets used by DCL Docs
-Description: Datasets used by DCL Docs.
+Title: Datasets used by Data Challenge Lab open content
+Description: Datasets used by Data Challenge Lab open content.
 Authors@R: 
   c(
     person(
