@@ -1,0 +1,28 @@
+Package: dddata
+Version: 0.1.0.9000
+Title: Datasets used by DCL Docs
+Description: Datasets used by DCL Docs.
+Authors@R: 
+  c(
+    person(
+      given = "Sara",
+      family = "Altman", 
+      email = "skaltman@stanford.edu", 
+      role = "aut"
+    ),
+    person(
+      given = "Bill",
+      family = "Behrman", 
+      email = "behrman@stanford.edu", 
+      role = c("aut", "cre")
+    )
+  )
+License: GPL-3 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: true
+URL: https://github.com/dcl-docs/dddata
+BugReports: https://github.com/dcl-docs/dddata/issues
+Imports:
+RoxygenNote: 7.0.0
+Roxygen: list(markdown = TRUE)
