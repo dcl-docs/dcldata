@@ -20,9 +20,10 @@ Authors@R:
 License: GPL-3 | file LICENSE
 Encoding: UTF-8
 LazyData: true
+Depends: R (>= 2.10)
 ByteCompile: true
 URL: https://github.com/dcl-docs/dddata
 BugReports: https://github.com/dcl-docs/dddata/issues
 Imports:
-RoxygenNote: 7.0.0
+RoxygenNote: 7.0.1
 Roxygen: list(markdown = TRUE)
