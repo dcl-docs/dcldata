@@ -1,7 +1,7 @@
 #' Modified Anscombe's Quartet Set 1
 #'
 #' Anscombe's quartet set 1 slightly modified so that ordinary least squares fit
-#' has an intersept and slope of exactly 3 and 0.5, respectively.
+#' has an intercept and slope of exactly 3 and 0.5, respectively.
 #'
 #' @format A data frame with 11 rows and 2 variables.
 #' \describe{

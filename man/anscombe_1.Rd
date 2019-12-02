@@ -18,6 +18,6 @@ anscombe_1
 }
 \description{
 Anscombe's quartet set 1 slightly modified so that ordinary least squares fit
-has an intersept and slope of exactly 3 and 0.5, respectively.
+has an intercept and slope of exactly 3 and 0.5, respectively.
 }
 \keyword{datasets}
