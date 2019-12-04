@@ -9,5 +9,6 @@
 #'   \item{n}{Birth order}
 #' }
 #'
-#' @source XX
+#' @source \url{https://www.theguardian.com/science/2017/oct/29/scott-kelly-astronaut-interview-space-younger-twin-endurance}
+#' @source \url{https://twitter.com/teganandsara/status/1186822326572191744}
 "example_twins"
