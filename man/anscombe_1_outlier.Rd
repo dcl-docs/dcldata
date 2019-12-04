@@ -3,7 +3,7 @@
 \docType{data}
 \name{anscombe_1_outlier}
 \alias{anscombe_1_outlier}
-\title{Modified Anscombe's Quartet Set 1 with outlier}
+\title{Modified Anscombe's quartet set 1 with outlier}
 \format{A data frame with 12 rows and 2 variables.
 \describe{
 \item{x_1, y}{Point coordinates}

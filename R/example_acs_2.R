@@ -1,6 +1,6 @@
-#' Example 5-year ACS data, Set 2
+#' Example 5-year ACS data, set 2
 #'
-#' Example 5-year ACS data, Set 2.
+#' Example 5-year ACS data, set 2.
 #'
 #' @format A data frame with 156 rows and 4 variables.
 #' \describe{

@@ -1,4 +1,4 @@
-#' Modified Anscombe's Quartet Set 1
+#' Modified Anscombe's quartet set 1
 #'
 #' Anscombe's quartet set 1 slightly modified so that ordinary least squares fit
 #' has an intercept and slope of exactly 3 and 0.5, respectively.

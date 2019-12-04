@@ -1,6 +1,6 @@
 # Example 5-year ACS data
 
-# Author: Sara Altman, Bill Behrman
+# Authors: Sara Altman, Bill Behrman
 # Version: 2019-12-02
 
 # Libraries

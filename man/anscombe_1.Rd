@@ -3,7 +3,7 @@
 \docType{data}
 \name{anscombe_1}
 \alias{anscombe_1}
-\title{Modified Anscombe's Quartet Set 1}
+\title{Modified Anscombe's quartet set 1}
 \format{A data frame with 11 rows and 2 variables.
 \describe{
 \item{x_1, y}{Point coordinates}

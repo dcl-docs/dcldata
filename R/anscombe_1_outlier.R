@@ -1,4 +1,4 @@
-#' Modified Anscombe's Quartet Set 1 with outlier
+#' Modified Anscombe's quartet set 1 with outlier
 #'
 #' The `anscombe_1` dataset with an added outlier.
 #'

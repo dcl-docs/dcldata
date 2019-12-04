@@ -3,7 +3,7 @@
 \docType{data}
 \name{example_acs_2}
 \alias{example_acs_2}
-\title{Example 5-year ACS data, Set 2}
+\title{Example 5-year ACS data, set 2}
 \format{A data frame with 156 rows and 4 variables.
 \describe{
 \item{geoid}{State FIPS}
@@ -20,6 +20,6 @@ U.S. Census Bureau. American Community Survey.
 example_acs_2
 }
 \description{
-Example 5-year ACS data, Set 2.
+Example 5-year ACS data, set 2.
 }
 \keyword{datasets}
