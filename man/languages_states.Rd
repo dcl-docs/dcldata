@@ -3,7 +3,7 @@
 \docType{data}
 \name{languages_states}
 \alias{languages_states}
-\title{Non-English languages spoken in US homes by state}
+\title{Non-English languages spoken in US homes in 2013, by state}
 \format{A data frame with 5582 rows and 3 variables.
 \describe{
 \item{state}{State}

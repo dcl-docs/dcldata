@@ -1,4 +1,4 @@
-#' Non-English languages spoken in US homes by state
+#' Non-English languages spoken in US homes in 2013, by state
 #'
 #' Non-English languages spoken at home by the US population 5 years 
 #' and older in 2013, by state.
