@@ -6,7 +6,12 @@
 \title{Example men's 100m dash data}
 \format{A data frame with 11 rows and 2 variables.
 \describe{
-\item{x_1, y}{Point coordinates}
+\item{rank}{Rank}
+\item{lane}{Lane}
+\item{name}{Name}
+\item{nationality}{Nationality}
+\item{reaction}{Reaction time in seconds}
+\item{time}{Race time in seconds}
 }}
 \source{
 Wikipedia.
