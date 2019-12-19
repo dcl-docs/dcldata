@@ -4,7 +4,7 @@
 \name{example_sprint}
 \alias{example_sprint}
 \title{Example men's 100m dash data}
-\format{A data frame with 11 rows and 2 variables.
+\format{A data frame with 11 rows and 6 variables.
 \describe{
 \item{rank}{Rank}
 \item{lane}{Lane}
