@@ -25,5 +25,5 @@ ByteCompile: true
 URL: https://github.com/dcl-docs/dcldata
 BugReports: https://github.com/dcl-docs/dcldata/issues
 Imports:
-RoxygenNote: 7.0.1
+RoxygenNote: 7.0.2
 Roxygen: list(markdown = TRUE)
