@@ -2,7 +2,7 @@
 #'
 #' Results of the men's 100-meter dash final from the 2016 Summer Olympics
 #'
-#' @format A data frame with 11 rows and 2 variables.
+#' @format A data frame with 11 rows and 6 variables.
 #' \describe{
 #'   \item{rank}{Rank}
 #'   \item{lane}{Lane}
