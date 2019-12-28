@@ -26,7 +26,9 @@ buildings <-
   rename_all(str_to_lower) %>% 
   rename(height = `height[9]`, building = name) %>% 
   mutate(
-    height = str_remove_all(height, "[:punct:]") %>% as.double()
+    height = str_remove_all(height, "[:punct:]") %>% as.double(),
+    floors = as.double(floors),
+    year = as.integer(year)
   ) %>% 
   select(building, city, country, height, floors, year)
 
