@@ -18,29 +18,18 @@ library(readxl)
 url_life_expectancy <- "http://gapm.io/dl_geo"
   # Sheet with country life expectancy data
 sheet <- "list-of-countries-etc"
-  # Temporary directory
-dir_tmp <- str_c("/tmp/", Sys.time() %>% as.integer(), "/")
-  # Temporary file
-file_tmp <- "countries.xlsx"
-  # Output file
-file_out <- "../data/countries.rds"
 
 #===============================================================================
 
-# Create temp directory
-if (!file.exists(dir_tmp)) {
-  dir.create(dir_tmp, recursive = TRUE)
-}
+path_temp <- fs::file_temp(ext = ".xlsx")
 
-# Download Excel spreadsheet
-path <- str_c(dir_tmp, file_tmp)
-if (download.file(url = url_life_expectancy, destfile = path)) {
+if (download.file(url = url_life_expectancy, destfile = path_temp)) {
   stop("Error: Failed to download Excel spreadsheet")
 }
 
 # Read in and tidy data
 gm_countries <- 
-  read_excel(path, sheet = sheet) %>% 
+  read_excel(path_temp, sheet = sheet) %>% 
   select(
     iso_a3 = geo,
     name,
@@ -69,8 +58,8 @@ gm_countries <-
   select(iso_a3:oecd_g77, un_status, un_admission, income_wb_2017) %>% 
   arrange(name)
 
-# Remove temporary directory
-if (unlink(dir_tmp, recursive = TRUE, force = TRUE)) {
+# Remove temporary file
+if (unlink(path_temp, recursive = TRUE, force = TRUE)) {
   print("Error: Remove temporary directory failed")
 }
 
