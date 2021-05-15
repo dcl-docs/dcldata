@@ -8,7 +8,8 @@
 A data frame with 6144 rows and 5 variables.
 \describe{
 \item{seqn}{Respondent sequence number}
-\item{ridageyr}{Age in years at screening}
+\item{ridageyr}{Age in years at screening. All participants aged 80 years
+and older are coded as 80.}
 \item{bpxosy1}{Systolic blood pressure - 1st oscillometric reading}
 \item{bpxosy2}{Systolic blood pressure - 2nd oscillometric reading}
 \item{bpxosy3}{Systolic blood pressure - 3rd oscillometric reading}
