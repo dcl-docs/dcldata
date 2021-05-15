@@ -4,7 +4,8 @@
 \name{gm_combined}
 \alias{gm_combined}
 \title{Gapminder region, population, GDP, and life expectancy data}
-\format{A data frame with 2562 rows and 7 variables.
+\format{
+A data frame with 2562 rows and 7 variables.
 \describe{
 \item{iso_a3}{ISO alpha-3 country code}
 \item{name}{Country name}
@@ -13,7 +14,8 @@
 \item{population}{Population}
 \item{gdp_per_capita}{GDP per capita, PPP dollars}
 \item{life_expectancy}{Life expectancy in years}
-}}
+}
+}
 \source{
 Gapminder.
 }

@@ -4,13 +4,15 @@
 \name{gm_life_expectancy}
 \alias{gm_life_expectancy}
 \title{Gapminder life expectancy data}
-\format{A data frame with 60538 rows and 4 variables.
+\format{
+A data frame with 60538 rows and 4 variables.
 \describe{
 \item{iso_a3}{ISO alpha-3 country code}
 \item{name}{Country name}
 \item{year}{Year}
 \item{life_expectancy}{Life expectancy, in years}
-}}
+}
+}
 \source{
 Gapminder.
 \url{https://www.gapminder.org/data/documentation/gd004/}

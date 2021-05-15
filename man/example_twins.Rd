@@ -4,12 +4,14 @@
 \name{example_twins}
 \alias{example_twins}
 \title{Example twin data}
-\format{A data frame with 4 rows and 3 variables.
+\format{
+A data frame with 4 rows and 3 variables.
 \describe{
 \item{family}{Family name}
 \item{name}{First name}
 \item{n}{Birth order}
-}}
+}
+}
 \source{
 \url{https://www.theguardian.com/science/2017/oct/29/scott-kelly-astronaut-interview-space-younger-twin-endurance}
 

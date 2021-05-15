@@ -4,7 +4,8 @@
 \name{gm_countries}
 \alias{gm_countries}
 \title{Gapminder country data}
-\format{A data frame with 197 rows and 10 variables.
+\format{
+A data frame with 197 rows and 10 variables.
 \describe{
 \item{iso_a3}{ISO alpha-3 country code}
 \item{name}{Country name}
@@ -16,7 +17,8 @@
 \item{un_status}{UN status}
 \item{un_admission}{Date of UN admission}
 \item{income_wb_2017}{4-group 2017 World Bank income group}
-}}
+}
+}
 \source{
 Gapminder.
 \url{https://www.gapminder.org/data/geo/}

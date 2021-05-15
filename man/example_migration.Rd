@@ -4,7 +4,8 @@
 \name{example_migration}
 \alias{example_migration}
 \title{Example migration data.}
-\format{A data frame with 3 rows and 6 variables.
+\format{
+A data frame with 3 rows and 6 variables.
 \describe{
 \item{dest}{Destination country}
 \item{Afghanistan}{Migrant population from Afghanistan}
@@ -12,7 +13,8 @@
 \item{India}{Migrant population from India}
 \item{Japan}{Migrant population from Japan}
 \item{South Africa}{Migrant population from South Africa}
-}}
+}
+}
 \source{
 United Nations, Population Division, Department of Economic and
 Social Affairs. Trends in International Migrant Stock, 2017. Table 1.

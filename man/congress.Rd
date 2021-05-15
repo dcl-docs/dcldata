@@ -4,7 +4,8 @@
 \name{congress}
 \alias{congress}
 \title{Data on 2019 Congress members}
-\format{A data frame with 532 rows and 7 variables.
+\format{
+A data frame with 532 rows and 7 variables.
 \describe{
 \item{name}{Congress member name}
 \item{state}{State}
@@ -13,7 +14,8 @@
 \item{party}{Party}
 \item{age}{Age on 2019-01-08}
 \item{gender}{Gender}
-}}
+}
+}
 \source{
 The @unitedstates project.
 \url{https://theunitedstates.io/}

@@ -4,11 +4,13 @@
 \name{languages_us}
 \alias{languages_us}
 \title{Non-English languages spoken in US homes in 2013}
-\format{A data frame with 318 rows and 2 variables.
+\format{
+A data frame with 318 rows and 2 variables.
 \describe{
 \item{language}{Language spoken at home}
 \item{speakers}{Estimated number of speakers}
-}}
+}
+}
 \source{
 2013 American Community Survey - Table Packages: Detailed Language
 Spoken in the U.S.

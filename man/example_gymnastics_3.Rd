@@ -4,7 +4,8 @@
 \name{example_gymnastics_3}
 \alias{example_gymnastics_3}
 \title{Example gymnastics data, set 3}
-\format{A data frame with 3 rows and 9 variables.
+\format{
+A data frame with 3 rows and 9 variables.
 \describe{
 \item{country}{Country}
 \item{vault_2012_f}{Women's vault score in 2012 Olympics}
@@ -15,7 +16,8 @@
 \item{floor_2012_m}{Men's floor score in 2012 Olympics}
 \item{floor_2016_f}{Women's floor score in 2016 Olympics}
 \item{floor_2016_m}{Men's floor score in 2016 Olympics}
-}}
+}
+}
 \source{
 Wikipedia.
 }

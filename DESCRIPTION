@@ -1,5 +1,5 @@
 Package: dcldata
-Version: 0.1.0.9000
+Version: 0.1.1.9000
 Title: Datasets used by Data Challenge Lab open content
 Description: Datasets used by Data Challenge Lab open content.
 Authors@R: 
@@ -25,5 +25,5 @@ ByteCompile: true
 URL: https://github.com/dcl-docs/dcldata
 BugReports: https://github.com/dcl-docs/dcldata/issues
 Imports:
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.1
 Roxygen: list(markdown = TRUE)

@@ -4,10 +4,12 @@
 \name{anscombe_1_outlier}
 \alias{anscombe_1_outlier}
 \title{Modified Anscombe's quartet set 1 with outlier}
-\format{A data frame with 12 rows and 2 variables.
+\format{
+A data frame with 12 rows and 2 variables.
 \describe{
 \item{x_1, y}{Point coordinates}
-}}
+}
+}
 \source{
 Anscombe FJ. Graphs in statistical analysis. The American
 Statistician. 1973 Feb;27(1):17-21.

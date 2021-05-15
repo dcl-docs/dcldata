@@ -4,12 +4,14 @@
 \name{example_gymnastics_1}
 \alias{example_gymnastics_1}
 \title{Example gymnastics data, set 1}
-\format{A data frame with 3 rows and 3 variables.
+\format{
+A data frame with 3 rows and 3 variables.
 \describe{
 \item{country}{Country}
 \item{score_vault}{Vault score}
 \item{score_floor}{Floor score}
-}}
+}
+}
 \source{
 Wikipedia.
 }

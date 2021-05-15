@@ -4,12 +4,14 @@
 \name{example_gymnastics_5}
 \alias{example_gymnastics_5}
 \title{Example gymnastics data, set 5}
-\format{A data frame with 12 rows and 3 variables.
+\format{
+A data frame with 12 rows and 3 variables.
 \describe{
 \item{country}{Country}
 \item{variable}{Indicator for total or rank and year}
 \item{value}{Value of variable}
-}}
+}
+}
 \source{
 Wikipedia.
 }

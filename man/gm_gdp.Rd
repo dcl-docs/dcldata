@@ -4,13 +4,15 @@
 \name{gm_gdp}
 \alias{gm_gdp}
 \title{Gapminder GDP per capita data}
-\format{A data frame with 48734 rows and 4 variables.
+\format{
+A data frame with 48734 rows and 4 variables.
 \describe{
 \item{iso_a3}{ISO alpha-3 country code}
 \item{name}{Country name}
 \item{year}{Year}
 \item{gdp_per_capita}{GDP per capita, PPP dollars}
-}}
+}
+}
 \source{
 Gapminder.
 \url{https://www.gapminder.org/data/documentation/gd001/}

@@ -4,12 +4,14 @@
 \name{war_and_peace}
 \alias{war_and_peace}
 \title{Word rank and frequency data for \emph{War and Peace}}
-\format{A data frame with 18087 rows and 3 variables.
+\format{
+A data frame with 18087 rows and 3 variables.
 \describe{
 \item{word}{Word}
 \item{freq}{Word frequency}
 \item{rank}{Word frequency rank}
-}}
+}
+}
 \source{
 Project Gutenberg
 \url{http://www.gutenberg.org/ebooks/2600}
