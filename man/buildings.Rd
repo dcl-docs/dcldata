@@ -5,7 +5,7 @@
 \alias{buildings}
 \title{Building height data}
 \format{
-A data frame with 71 rows and 6 variables.
+A data frame with 76 rows and 6 variables.
 \describe{
 \item{building}{Name of the building}
 \item{city}{Home city of the building}
@@ -23,6 +23,6 @@ Wikipedia.
 buildings
 }
 \description{
-Heights and other data on the world's 71 tallest buildings.
+Heights and other data on the world's 76 tallest buildings.
 }
 \keyword{datasets}
